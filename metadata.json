@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "An AI-powered smart agriculture platform to detect crop diseases, predict market prices, and leverage telemetry insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
